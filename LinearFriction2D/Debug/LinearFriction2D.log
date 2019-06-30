@@ -1,6 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level10\physics-linearfriction-2d-mastervs2019\linearfriction2d\main.cpp(427): warning C4101: 'angularFrictionalImpulse': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level10\physics-linearfriction-2d-mastervs2019\linearfriction2d\main.cpp(766): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\level10\physics-linearfriction-2d-mastervs2019\linearfriction2d\main.cpp(802): warning C4326: return type of 'main' should be 'int' instead of 'void'
-d:\profiles\njp2424\desktop\physics\level10\physics-linearfriction-2d-mastervs2019\linearfriction2d\main.cpp(817): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  LinearFriction2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level10\physics-linearFriction-2D-masterVS2019\LinearFriction2D\Debug\LinearFriction2D.exe
